@@ -1,0 +1,26 @@
+{
+  "name": "rn-toggle",
+  "version": "1.0.0",
+  "description": "Animated Toggle for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abuda/react-native-toggle.git"
+  },
+  "keywords": [
+    "React",
+    "native",
+    "animated",
+    "toggle",
+    "switch"
+  ],
+  "author": "Abuda Khaminkaew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abuda/react-native-toggle/issues"
+  },
+  "homepage": "https://github.com/Abuda/react-native-toggle#readme"
+}

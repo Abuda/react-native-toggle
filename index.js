@@ -1,2 +1,2 @@
-import Toggle from './src/react-native-toggle';
+import Toggle from './src/rn-toggle';
 export { Toggle };
