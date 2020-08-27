@@ -40,18 +40,14 @@ const Toggle = ({
       Animated.timing(translateXValue, {
         toValue: isActive ? 1 : 0,
         duration: duration,
-        useNativeDriver: false,
+        useNativeDriver: true,
         easing: Easing.cubic,
       }),
     ]).start();
   }, [isActive]);
 
   return (
-    <TouchableOpacity
-      onPress={toggle}
-      style={{ padding: 40 }}
-      activeOpacity={1}
-    >
+    <TouchableOpacity onPress={toggle} activeOpacity={1}>
       <Animated.View
         style={{
           borderRadius: width / 2,
