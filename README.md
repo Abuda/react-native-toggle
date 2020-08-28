@@ -31,7 +31,7 @@ const [isActive, setIsActive] = useState(false);
 	borderColor='#FF0000'
 />
 ```
-###Props
+### Props
 Name | Type | Required | Default | Description
 ------------- | -------------
 containerStyle | Object | no | {} | Styling for the outermost component
