@@ -1,7 +1,7 @@
 {
   "name": "rn-toggle",
-  "version": "1.0.4",
-  "description": "Animated toggle switch for react native",
+  "version": "1.0.10",
+  "description": "A customizable toggle switch for React Native that works on Android and iOS without any extra installation steps",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
