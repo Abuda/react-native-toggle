@@ -1,6 +1,9 @@
 ### RN-Toggle
 A customizable toggle switch for React Native that works on Android and iOS without any extra installation steps.
 
+###  Demo
+![20200829_025333_edited](https://user-images.githubusercontent.com/1588378/91626159-92801f80-e9a4-11ea-870f-24b6432479b4.gif)
+
 ###  Installation:
 `$ npm install rn-toggle`
 
